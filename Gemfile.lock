@@ -8,7 +8,7 @@ GEM
     execjs (1.4.0)
       multi_json (~> 1.0)
     multi_json (1.3.5)
-    zucchini-ios (0.5.5)
+    royratcliffe-zucchini-ios (0.5.6)
       clamp
 
 PLATFORMS
@@ -16,4 +16,4 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-script
-  zucchini-ios
+  royratcliffe-zucchini-ios

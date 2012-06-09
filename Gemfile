@@ -1,2 +1,2 @@
-gem 'zucchini-ios'
+gem 'royratcliffe-zucchini-ios'
 gem 'coffee-script'
